@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1500" src="https://user-images.githubusercontent.com/98258627/199883206-002b0f6f-9685-40c1-abba-97fbdbb5602f.png">
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
-<h3 align="center">A final year student at Delhi University pursuing Computer Science . I am passionate about Devops , Web Development and Opensource . And I cherish exploring new technologies ✌️</h3>
+<h3 align="center">A final year student at Delhi University pursuing Computer Science . I am passionate about Devops , Web Development and Opensource . I cherish exploring new technologies . And also trying to play the other keyboard sometimes🎹. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrs147&label=Profile%20views&color=0e75b6&style=flat" alt="yrs147" /> </p>
