@@ -1,17 +1,17 @@
 <img align="center" alt="Coding" width="1500" src="https://user-images.githubusercontent.com/98258627/199883206-002b0f6f-9685-40c1-abba-97fbdbb5602f.png">
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
-<h3 align="center">A final year student at Delhi University pursuing Computer Science . I am passionate about Devops , Web Development and Opensource . I cherish exploring new technologies . And sometimes instead of typing on it  , I try to play the keyboard as well🎹🎶. </h3>
+<h3 align="center">A final year student at Delhi University pursuing Computer Science . I am passionate about Devops , Web Development , Web3. I cherish exploring new technologies . And every once in a while instead of typing , I try to play the keyboard as well🎹🎶. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrs147&label=Profile%20views&color=0e75b6&style=flat" alt="yrs147" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yrs_1015" target="blank"><img src="https://img.shields.io/twitter/follow/yrs_1015?logo=twitter&style=for-the-badge" alt="yrs_1015" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🥑 I’m currently learning **Devops**
 
-- 💬 Ask me about **Web Developement**
+- (☞ﾟヮﾟ)☞ Trying Opensource as well
 
-- 📫 How to reach me **yashraj14700728@gmail.com**
+-Always up for collaborating on projects ✌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
