@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrs147&label=Profile%20views&color=0e75b6&style=flat" alt="yrs147" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yrs_1015" target="blank"><img src="https://img.shields.io/twitter/follow/yrs_1015?logo=twitter&style=for-the-badge" alt="yrs_1015" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yrs_1015" target="blank"><img src="https://img.shields.io/twitter/follow/yrs_1015?logo=twitter&style=for-the-badge" alt="yrstwts" /></a> </p>
 
 - 🥑 I’m currently learning **Devops**
 
