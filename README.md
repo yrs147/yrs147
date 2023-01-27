@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1500" src="https://user-images.githubusercontent.com/98258627/199883206-002b0f6f-9685-40c1-abba-97fbdbb5602f.png">
 <h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
-<h3 align="center">A final year student at Delhi University pursuing Computer Science . Current serving as a Release Shadow in Kubernetes 1.27 Release Team . I am like   DevOps , Web Development & Web3. I cherish exploring new technologies . And every once in a while instead of typing , I try to play the keyboard as well🎹🎶. </h3>
+<h3 align="center">A final year student at Delhi University pursuing Computer Science . Current serving as a Release Shadow in Kubernetes 1.27 Release Team . I am interested in Cloud , DevOps , Web Development & Web3. I cherish exploring new technologies . And every once in a while instead of typing , I try to play the keyboard as well🎹🎶. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yrs147&label=Profile%20views&color=0e75b6&style=flat" alt="yrs147" /> </p>
