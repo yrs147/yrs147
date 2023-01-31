@@ -7,7 +7,7 @@
 
 
 
--   🥑 I’m currently learning **Devops**
+-   🥑 I’m currently learning **Devops**
 -   (☞ﾟヮﾟ)☞ Doing Opensource as well
 - Always up for collaborating on projects ✌
 
