@@ -5,7 +5,7 @@
 
 
 
-**A CS undergrad student currently serving as a Release Shadow in Kubernetes 1.27 Release Team with Experience in cloud native technologies. I am interested in Cloud Computing and DevOps . I cherish exploring new technologies. And every once in a while instead of typing, I try to play the keyboard as well🎹🎶**
+**A CS undergrad student currently serving as a Release Shadow in Kubernetes 1.27 Release Team with Experience in cloud native technologies. I am interested in Cloud Computing and DevOps . I cherish exploring new technologies. And every once in a while instead of typing, I try to play keyboard as well🎹🎶**
 
 
 
