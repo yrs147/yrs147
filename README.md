@@ -5,7 +5,7 @@
 
 
 
-**A CS undergrad student with Experience in cloud native technologies. I am a DevOps Enthusiast . I cherish exploring new technologies. And every once in a while instead of typing, I try to play keyboard as well🎹🎶**
+**A CS undergrad  with Experience in cloud native technologies. I am a DevOps Enthusiast . I cherish exploring new technologies. And every once in a while instead of typing, I try to play keyboard as well🎹🎶**
 
 
 
