@@ -9,7 +9,7 @@
 
 
 
--   🥑 I’m currently learning **Devops**
+- Learning **Devops**
 - Always up for collaborating on projects ✌
 
 ![](https://visitcount.itsvg.in/api?id=yrs147&icon=0&color=0)
