@@ -10,7 +10,7 @@
 
 
 - Learning **Devops**
-- Always up for collaborating on projects ✌
+- Tinkering with Backend
 
 ![](https://visitcount.itsvg.in/api?id=yrs147&icon=0&color=0)
 
