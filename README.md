@@ -1,16 +1,9 @@
 ![image](https://user-images.githubusercontent.com/98258627/215672908-81bcda25-60da-44f3-9e30-bc231804dcd6.png)
 
-#  Hi  I'm Yash <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50" height="50">
+#  Hi  I'm Yash 
 
 
 
-
-**A CS undergrad  with Experience in cloud native technologies. I am a DevOps Enthusiast . I cherish exploring new technologies. And every once in a while instead of typing, I try to play keyboard as well🎹🎶**
-
-
-
-- Learning **Devops**
-- Tinkering with Backend
 
 ![](https://visitcount.itsvg.in/api?id=yrs147&icon=0&color=0)
 
